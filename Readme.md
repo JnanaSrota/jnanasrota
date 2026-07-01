@@ -37,7 +37,7 @@ I pick the right tool, wire it end-to-end, and ship.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JnanaSrota&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JnanaSrota&show_icons=true&hide_border=true&theme=github_dark)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JnanaSrota&layout=compact&hide_border=true&theme=github_dark)
 
